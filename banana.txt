@@ -11,6 +11,10 @@ I am making a change
 Something silly
 I am the walrus
 // Fair use
+<<<<<<< HEAD
 Yup Yup
 Bodacious
 Onions
+=======
+bug fix
+>>>>>>> master
